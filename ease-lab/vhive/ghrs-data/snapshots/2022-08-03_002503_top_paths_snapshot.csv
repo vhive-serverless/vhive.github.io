@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ease-lab/vhive,225,59
+/ease-lab/vhive/blob/main/docs/quickstart_guide.md,121,20
+/ease-lab/vhive/search,104,4
+/ease-lab/vhive/tree/main/docs,62,12
+/ease-lab/vhive/issues,45,5
+/ease-lab/vhive/blob/main/docs/developers_guide.md,34,10
+/ease-lab/vhive/tree/main/scripts,29,10
+/ease-lab/vhive/blob/main/configs/istio/istio-minimal-operator.yaml,20,3
+/ease-lab/vhive/blob/main/scripts/cluster/setup_master_node.sh,17,3
+/ease-lab/vhive/tree/main/docs/knative,16,5
