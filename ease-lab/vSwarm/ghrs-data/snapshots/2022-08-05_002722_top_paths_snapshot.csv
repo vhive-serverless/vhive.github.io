@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ease-lab/vSwarm,84,30
+/ease-lab/vSwarm/tree/main/benchmarks,48,15
+/ease-lab/vSwarm/blob/main/docs/running_benchmarks.md,16,6
+/ease-lab/vSwarm/blob/main/benchmarks/hotel-app/profile/server.go,16,1
+/ease-lab/vSwarm/tree/main/benchmarks/hotel-app,14,2
+/ease-lab/vSwarm/tree/main/benchmarks/online-shop,12,5
+/ease-lab/vSwarm/tree/main/benchmarks/aes,11,4
+/ease-lab/vSwarm/tree/main/benchmarks/hotel-app/profile,11,1
+/ease-lab/vSwarm/tree/main/benchmarks/fibonacci,10,5
+/ease-lab/vSwarm/blob/main/benchmarks/hotel-app/profile/main.go,10,1
