@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vhive/actions,331,3
+/vhive-serverless/vhive,250,66
+/vhive-serverless/vhive/actions/workflows/uBench_whole_chain.yml,110,1
+/vhive-serverless/vhive/pulls,65,3
+/vhive-serverless/vhive/blob/main/docs/quickstart_guide.md,41,16
+/vhive-serverless/vhive/tree/producer-consumer-serving,36,1
+/vhive-serverless/vhive/blob/producer-consumer-serving/.github/workflows/uBench_whole_chain.yml,27,1
+/vhive-serverless/vhive/tree/producer-consumer-serving/.github/workflows,27,1
+/vhive-serverless/vhive/pull/271,26,1
+/vhive-serverless/vhive/tree/main/docs,23,4

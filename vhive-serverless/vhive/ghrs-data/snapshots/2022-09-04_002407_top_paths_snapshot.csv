@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vhive,282,90
+/vhive-serverless/vhive/blob/main/docs/quickstart_guide.md,140,33
+/vhive-serverless/vhive/search,85,9
+/vhive-serverless/vhive/tree/main/docs,52,20
+/vhive-serverless/vhive/tree/main/scripts,47,10
+/vhive-serverless/vhive/tree/main/examples,36,14
+/vhive-serverless/vhive/tree/main/function-images,34,13
+/vhive-serverless/vhive/tree/main/configs,28,12
+/vhive-serverless/vhive/blob/main/docs/developers_guide.md,24,13
+/vhive-serverless/vhive/tree/main/configs/knative_workloads,20,9

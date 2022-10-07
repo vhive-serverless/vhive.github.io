@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vhive,331,188
+/vhive-serverless/vhive/search,64,4
+/vhive-serverless/vhive/blob/main/docs/quickstart_guide.md,56,21
+/vhive-serverless/vhive/tree/main/function-images,34,6
+/vhive-serverless/vhive/releases/tag/v1.4,24,18
+/vhive-serverless/vhive/tree/main/docs,23,9
+/vhive-serverless/vhive/commits/main,16,3
+/vhive-serverless/vhive/blob/main/docs/talks/vHive_REAP_@AWS_04_02_2021.pdf,13,10
+/vhive-serverless/vhive/issues,13,5
+/vhive-serverless/vhive/tree/main/function-images/rnn_serving,13,3

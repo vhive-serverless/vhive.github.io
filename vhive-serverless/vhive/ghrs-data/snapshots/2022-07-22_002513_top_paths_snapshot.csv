@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vhive,337,72
+/vhive-serverless/vhive/blob/main/docs/quickstart_guide.md,120,27
+/vhive-serverless/vhive/search,115,9
+/vhive-serverless/vhive/tree/main/scripts,90,13
+/vhive-serverless/vhive/issues,73,14
+/vhive-serverless/vhive/tree/main/scripts/cluster,58,9
+/vhive-serverless/vhive/tree/main/examples,45,8
+/vhive-serverless/vhive/tree/main/docs,41,10
+/vhive-serverless/vhive/tree/main/scripts/cloudlab,39,10
+/vhive-serverless/vhive/blob/main/scripts/cloudlab/setup_node.sh,33,9

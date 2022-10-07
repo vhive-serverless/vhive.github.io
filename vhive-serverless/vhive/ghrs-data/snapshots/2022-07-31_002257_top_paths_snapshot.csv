@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vhive,258,75
+/vhive-serverless/vhive/blob/main/docs/quickstart_guide.md,130,23
+/vhive-serverless/vhive/search,89,7
+/vhive-serverless/vhive/tree/main/docs,63,11
+/vhive-serverless/vhive/tree/main/scripts,49,10
+/vhive-serverless/vhive/issues,35,8
+/vhive-serverless/vhive/blob/main/docs/developers_guide.md,33,10
+/vhive-serverless/vhive/blob/main/configs/istio/istio-minimal-operator.yaml,28,3
+/vhive-serverless/vhive/blob/main/scripts/cloudlab/setup_node.sh,24,5
+/vhive-serverless/vhive/tree/main/scripts/cluster,23,7

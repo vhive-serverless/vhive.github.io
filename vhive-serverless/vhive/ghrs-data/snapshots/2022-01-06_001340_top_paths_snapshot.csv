@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vhive,50,37
+/vhive-serverless/vhive/blob/main/scripts/cloudlab/setup_node.sh,17,2
+/vhive-serverless/vhive/tree/main/scripts/cloudlab,17,2
+/vhive-serverless/vhive/blob/main/scripts/cluster/setup_master_node.sh,15,2
+/vhive-serverless/vhive/tree/main/scripts,12,4
+/vhive-serverless/vhive/blob/main/docs/quickstart_guide.md,9,8
+/vhive-serverless/vhive/tree/main/scripts/cluster,8,2
+/vhive-serverless/vhive/blob/main/scripts/cluster/create_one_node_cluster.sh,8,1
+/vhive-serverless/vhive/blob/main/scripts/setup_firecracker_containerd.sh,8,1
+/vhive-serverless/vhive/blob/main/scripts/setup_system.sh,8,1

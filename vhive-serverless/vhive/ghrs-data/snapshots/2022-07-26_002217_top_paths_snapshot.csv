@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vhive,237,80
+/vhive-serverless/vhive/search,89,8
+/vhive-serverless/vhive/blob/main/docs/quickstart_guide.md,78,27
+/vhive-serverless/vhive/issues,54,11
+/vhive-serverless/vhive/tree/main/scripts,38,8
+/vhive-serverless/vhive/tree/main/scripts/cluster,26,4
+/vhive-serverless/vhive/tree/main/docs,25,9
+/vhive-serverless/vhive/tree/main/function-images,24,8
+/vhive-serverless/vhive/blob/main/configs/istio/istio-minimal-operator.yaml,23,3
+/vhive-serverless/vhive/tree/main/configs,17,4

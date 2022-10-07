@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vhive,166,58
+/vhive-serverless/vhive/blob/main/docs/quickstart_guide.md,84,24
+/vhive-serverless/vhive/search,55,4
+/vhive-serverless/vhive/issues,47,6
+/vhive-serverless/vhive/tree/main/docs,35,6
+/vhive-serverless/vhive/tree/main/scripts,27,9
+/vhive-serverless/vhive/blob/main/docs/developers_guide.md,24,8
+/vhive-serverless/vhive/releases,21,3
+/vhive-serverless/vhive/blob/main/scripts/cluster/create_one_node_cluster.sh,20,7
+/vhive-serverless/vhive/blob/main/scripts/cluster/setup_master_node.sh,19,5

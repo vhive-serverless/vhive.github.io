@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vhive,249,59
+/vhive-serverless/vhive/actions,167,5
+/vhive-serverless/vhive/issues,50,7
+/vhive-serverless/vhive/blob/main/docs/quickstart_guide.md,49,17
+/vhive-serverless/vhive/search,38,4
+/vhive-serverless/vhive/pulls,34,7
+/vhive-serverless/vhive/tree/main/docs,26,5
+/vhive-serverless/vhive/actions/workflows/build_docker_images.yml,21,1
+/vhive-serverless/vhive/projects,20,4
+/vhive-serverless/vhive/tree/producer-consumer-serving,20,1

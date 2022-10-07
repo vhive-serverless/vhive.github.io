@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vhive,193,52
+/vhive-serverless/vhive/blob/main/docs/quickstart_guide.md,57,20
+/vhive-serverless/vhive/tree/main/examples,34,10
+/vhive-serverless/vhive/releases/tag/v1.3,23,2
+/vhive-serverless/vhive/tree/main/docs,20,10
+/vhive-serverless/vhive/tree/main/function-images,20,10
+/vhive-serverless/vhive/tree/main/examples/invoker,17,7
+/vhive-serverless/vhive/tree/main/utils/benchmarking/eventing,17,2
+/vhive-serverless/vhive/blob/main/examples/invoker/client.go,16,4
+/vhive-serverless/vhive/tree/main/utils,16,4
