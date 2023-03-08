@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm,31,19
+/vhive-serverless/vSwarm/tree/main/benchmarks,9,3
+/vhive-serverless/vSwarm/blob/main/docs/adding_benchmarks.md,9,2
+/vhive-serverless/vSwarm/issues/257,5,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics,3,2
+/vhive-serverless/vSwarm/blob/main/docs/running_benchmarks.md,2,2
+/vhive-serverless/vSwarm/blob/main/benchmarks/video-analytics/Dockerfile,2,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/map-reduce,2,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/online-shop,2,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics/object_recognition,2,1
