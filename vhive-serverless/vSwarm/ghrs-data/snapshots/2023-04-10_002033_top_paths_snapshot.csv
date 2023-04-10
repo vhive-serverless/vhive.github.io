@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm,75,25
+/vhive-serverless/vSwarm/tree/main/benchmarks,32,9
+/vhive-serverless/vSwarm/blob/main/docs/running_benchmarks.md,16,6
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics,13,5
+/vhive-serverless/vSwarm/tree/main/docs,9,6
+/vhive-serverless/vSwarm/tree/main/tools,8,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/fibonacci,7,3
+/vhive-serverless/vSwarm/blob/main/docs/running_locally.md,6,3
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics/yamls,6,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics/yamls/knative,6,2
