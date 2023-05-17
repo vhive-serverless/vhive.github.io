@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm/tree/main/benchmarks,61,12
+/vhive-serverless/vSwarm,45,23
+/vhive-serverless/vSwarm/tree/main/tools,42,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app,25,4
+/vhive-serverless/vSwarm/tree/main/docs,21,4
+/vhive-serverless/vSwarm/blob/main/docs/adding_benchmarks.md,21,2
+/vhive-serverless/vSwarm/tree/main/utils,19,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/online-shop,17,4
+/vhive-serverless/vSwarm/tree/main/benchmarks/aes,15,7
+/vhive-serverless/vSwarm/tree/main/benchmarks/chained-function-serving,15,3
