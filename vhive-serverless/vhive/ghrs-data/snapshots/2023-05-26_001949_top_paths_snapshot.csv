@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vHive,192,54
+/vhive-serverless/vHive/blob/main/docs/quickstart_guide.md,177,23
+/vhive-serverless/vHive/tree/main/examples,60,6
+/vhive-serverless/vHive/blob/main/docs/developers_guide.md,48,7
+/vhive-serverless/vHive/blob/hy/scripts/cluster/setup_master_node.sh,48,3
+/vhive-serverless/vHive/tree/hy/scripts,37,3
+/vhive-serverless/vHive/blob/main/docs/knative/eventing.md,36,4
+/vhive-serverless/vHive/tree/main/docs,32,10
+/vhive-serverless/vHive/tree/main/scripts,30,4
+/vhive-serverless/vHive/tree/hy,29,3
