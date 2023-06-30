@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vHive,93,44
+/vhive-serverless/vHive/blob/main/docs/quickstart_guide.md,63,18
+/vhive-serverless/vHive/tree/main/examples,56,3
+/vhive-serverless/vHive/tree/main/examples/invoker,50,1
+/vhive-serverless/vHive/tree/main/examples/deployer,23,2
+/vhive-serverless/vHive/blob/main/examples/deployer/client.go,22,2
+/vhive-serverless/vHive/blob/main/examples/invoker/client.go,20,1
+/vhive-serverless/vHive/blob/main/examples/invoker/Makefile,20,1
+/vhive-serverless/vHive/blob/main/examples/deployer/functions.json,18,2
+/vhive-serverless/vHive/blob/main/examples/invoker/helloworld.proto,18,1
