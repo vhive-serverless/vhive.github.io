@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm/tree/main/benchmarks,129,8
+/vhive-serverless/vSwarm,76,24
+/vhive-serverless/vSwarm/tree/main/benchmarks/online-shop,65,6
+/vhive-serverless/vSwarm/issues,42,9
+/vhive-serverless/vSwarm/pulls,42,5
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app,40,4
+/vhive-serverless/vSwarm/blob/main/docs/running_benchmarks.md,39,7
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics,39,4
+/vhive-serverless/vSwarm/tree/main/benchmarks/online-shop/yamls/docker-compose,39,3
+/vhive-serverless/vSwarm/tree/main/benchmarks/stacking-training,36,2
