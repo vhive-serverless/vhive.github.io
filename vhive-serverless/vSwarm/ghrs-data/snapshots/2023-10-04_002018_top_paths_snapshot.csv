@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm/tree/main/benchmarks,212,22
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics,69,8
+/vhive-serverless/vSwarm,61,30
+/vhive-serverless/vSwarm/tree/main/benchmarks/online-shop,60,8
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app,59,9
+/vhive-serverless/vSwarm/tree/main/benchmarks/aes,40,6
+/vhive-serverless/vSwarm/tree/main/benchmarks/map-reduce,35,7
+/vhive-serverless/vSwarm/tree/main/benchmarks/fibonacci,35,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/stacking-training,33,4
+/vhive-serverless/vSwarm/tree/main,20,8
