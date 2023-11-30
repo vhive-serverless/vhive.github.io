@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm/tree/main/benchmarks,113,14
+/vhive-serverless/vSwarm/tree/main/benchmarks/aes,83,7
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics,65,8
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app/yamls/knative,52,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/bert,42,6
+/vhive-serverless/vSwarm,37,24
+/vhive-serverless/vSwarm/blob/main/docs/running_benchmarks.md,35,6
+/vhive-serverless/vSwarm/blob/main/benchmarks/video-analytics/Dockerfile,30,2
+/vhive-serverless/vSwarm/tree/main/.github/workflows,30,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/auth,28,3
