@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm/tree/main/benchmarks,79,9
+/vhive-serverless/vSwarm/tree/main/benchmarks/aes,40,4
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app,38,7
+/vhive-serverless/vSwarm,32,18
+/vhive-serverless/vSwarm/blob/main/benchmarks/auth/python/server.py,30,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/auth,28,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/online-shop,27,3
+/vhive-serverless/vSwarm/blob/main/benchmarks/aes/python/server.py,18,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics,18,2
+/vhive-serverless/vSwarm/blob/5b39d2790b8c6c1890794bf6c0a7f0446ee86a44/benchmarks/video-analytics/yamls/docker-compose/docker-compose-xdt.yml,16,1
