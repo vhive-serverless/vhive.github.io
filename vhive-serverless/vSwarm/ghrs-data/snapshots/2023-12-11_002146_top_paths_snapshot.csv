@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm/tree/main/benchmarks,58,9
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app,38,7
+/vhive-serverless/vSwarm,32,18
+/vhive-serverless/vSwarm/tree/main/benchmarks/online-shop,24,3
+/vhive-serverless/vSwarm/blob/5b39d2790b8c6c1890794bf6c0a7f0446ee86a44/benchmarks/video-analytics/yamls/docker-compose/docker-compose-xdt.yml,16,1
+/vhive-serverless/vSwarm/blob/5b39d2790b8c6c1890794bf6c0a7f0446ee86a44/benchmarks/video-analytics/yamls/docker-compose/docker-compose-inline.yml,14,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/aes,12,4
+/vhive-serverless/vSwarm/blob/main/tools/deployer/client.go,12,1
+/vhive-serverless/vSwarm/tree/5b39d2790b8c6c1890794bf6c0a7f0446ee86a44/benchmarks/video-analytics,12,1
+/vhive-serverless/vSwarm/tree/5b39d2790b8c6c1890794bf6c0a7f0446ee86a44/benchmarks/auth,11,1
