@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm/tree/main/benchmarks,37,6
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app,32,6
+/vhive-serverless/vSwarm,30,19
+/vhive-serverless/vSwarm/tree/main/benchmarks/online-shop,26,4
+/vhive-serverless/vSwarm/tree/main/benchmarks/online-shop/yamls/docker-compose,7,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/aes,6,3
+/vhive-serverless/vSwarm/tree/main/tools,6,2
+/vhive-serverless/vSwarm/blob/e773c57fced31be94b170501346c58b5879c086c/benchmarks/aes/yamls/knative/kn-aes-go-tracing.yaml,6,1
+/vhive-serverless/vSwarm/blob/main/tools/deployer/client.go,6,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/online-shop/currencyservice,6,1
