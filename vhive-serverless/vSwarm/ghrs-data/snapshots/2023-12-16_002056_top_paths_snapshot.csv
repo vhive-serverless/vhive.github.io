@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm,33,22
+/vhive-serverless/vSwarm/tree/main/benchmarks,20,5
+/vhive-serverless/vSwarm/tree/main/benchmarks/online-shop,18,3
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app,17,3
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics,8,2
+/vhive-serverless/vSwarm/blob/main/tools/deployer/client.go,8,1
+/vhive-serverless/vSwarm/tree/main/docs,8,1
+/vhive-serverless/vSwarm/tree/main/runner,7,2
+/vhive-serverless/vSwarm/tree/main/tools,6,2
+/vhive-serverless/vSwarm/blob/e773c57fced31be94b170501346c58b5879c086c/benchmarks/aes/yamls/knative/kn-aes-go-tracing.yaml,6,1
