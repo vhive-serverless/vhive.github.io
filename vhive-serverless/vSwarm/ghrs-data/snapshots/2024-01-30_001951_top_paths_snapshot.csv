@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm/tree/main/benchmarks,66,6
+/vhive-serverless/vSwarm,42,27
+/vhive-serverless/vSwarm/tree/main/benchmarks/online-shop,23,3
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app,20,3
+/vhive-serverless/vSwarm/tree/main/benchmarks/stacking-training,20,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/fibonacci,19,2
+/vhive-serverless/vSwarm/blob/main/benchmarks/stacking-training/metatrainer/main.py,18,1
+/vhive-serverless/vSwarm/blob/main/docs/running_benchmarks.md,17,4
+/vhive-serverless/vSwarm/blob/main/benchmarks/README.md,17,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/chained-function-serving,14,3
