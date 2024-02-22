@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm/tree/main/benchmarks,80,16
+/vhive-serverless/vSwarm,69,34
+/vhive-serverless/vSwarm/blob/main/tools/deployer/client.go,32,2
+/vhive-serverless/vSwarm/blob/main/docs/running_benchmarks.md,22,7
+/vhive-serverless/vSwarm/tree/main/tools,20,4
+/vhive-serverless/vSwarm/blob/main/tools/deployer/functions.json,16,1
+/vhive-serverless/vSwarm/tree/main,15,5
+/vhive-serverless/vSwarm/tree/main/tools/bin,15,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/aes,14,3
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics,14,2
