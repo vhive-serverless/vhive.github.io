@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm,39,29
+/vhive-serverless/vSwarm/tree/main/benchmarks,27,9
+/vhive-serverless/vSwarm/blob/main/docs/running_benchmarks.md,10,4
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics,10,3
+/vhive-serverless/vSwarm/blob/141e98cd7927e7a72fa50c430f87b3c29932f5a2/.github/workflows/loadgen-profiler-test.yml,10,1
+/vhive-serverless/vSwarm/blob/main/docs/running_locally.md,8,4
+/vhive-serverless/vSwarm/blob/main/docs/contributing_to_vhive.md,8,2
+/vhive-serverless/vSwarm/blob/main/tools/invoker/README.md,8,2
+/vhive-serverless/vSwarm/tree/load-generator/benchmarks/video-analytics/video_streaming,8,1
+/vhive-serverless/vSwarm/tree/load-generator/tools,8,1
