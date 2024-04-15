@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm/tree/main/benchmarks,84,12
+/vhive-serverless/vSwarm,66,25
+/vhive-serverless/vSwarm/tree/main/benchmarks/aes,57,5
+/vhive-serverless/vSwarm/blob/main/docs/running_benchmarks.md,56,6
+/vhive-serverless/vSwarm/blob/main/docs/running_locally.md,54,5
+/vhive-serverless/vSwarm/tree/main/tools/invoker,31,2
+/vhive-serverless/vSwarm/tree/load-generator/tools,28,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics,26,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/aes/yamls,20,3
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics/video_streaming,18,1
