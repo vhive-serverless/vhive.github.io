@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm/tree/main/benchmarks,76,9
+/vhive-serverless/vSwarm/blob/main/docs/contributing_to_vhive.md,42,1
+/vhive-serverless/vSwarm,30,15
+/vhive-serverless/vSwarm/tree/main/benchmarks/online-shop,22,4
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app,22,3
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app/user,12,1
+/vhive-serverless/vSwarm/blob/main/docs/running_locally.md,10,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/chained-function-eventing,10,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/auth,8,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/fibonacci/python,8,2
