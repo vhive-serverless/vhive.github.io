@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm/tree/main/benchmarks,70,16
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics,57,4
+/vhive-serverless/vSwarm,49,26
+/vhive-serverless/vSwarm/blob/main/docs/running_locally.md,32,4
+/vhive-serverless/vSwarm/blob/main/tools/invoker/README.md,21,1
+/vhive-serverless/vSwarm/blob/main/benchmarks/video-analytics/decoder/decode.py,20,1
+/vhive-serverless/vSwarm/blob/main/benchmarks/video-analytics/object_recognition/recog.py,18,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/fibonacci,17,5
+/vhive-serverless/vSwarm/blob/main/docs/methodology.md,16,3
+/vhive-serverless/vSwarm/blob/main/docs/running_benchmarks.md,16,3
