@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm/tree/main/benchmarks,98,6
+/vhive-serverless/vSwarm/tree/main/benchmarks/chained-function-serving,60,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/map-reduce,60,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app,54,2
+/vhive-serverless/vSwarm/blob/main/tools/invoker/client.go,46,3
+/vhive-serverless/vSwarm/tree/main/benchmarks/map-reduce/mapper,40,2
+/vhive-serverless/vSwarm/blob/main/docs/running_benchmarks.md,36,4
+/vhive-serverless/vSwarm/tree/main/benchmarks/map-reduce/driver,30,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics,29,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app/search,28,2
