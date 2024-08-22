@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm/tree/main/benchmarks,38,4
+/vhive-serverless/vSwarm/blob/main/docs/running_benchmarks.md,30,3
+/vhive-serverless/vSwarm/tree/main/benchmarks/chained-function-eventing/producer,27,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/chained-function-serving,26,1
+/vhive-serverless/vSwarm,24,15
+/vhive-serverless/vSwarm/blob/main/tools/invoker/client.go,22,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics,19,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics/video_streaming,15,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/chained-function-eventing,14,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/map-reduce/mapper,14,1
