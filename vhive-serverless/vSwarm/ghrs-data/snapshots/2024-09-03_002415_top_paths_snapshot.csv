@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm/tree/main/benchmarks/bert/python,99,5
+/vhive-serverless/vSwarm/tree/main/benchmarks,74,12
+/vhive-serverless/vSwarm/tree/main/benchmarks/bert,60,5
+/vhive-serverless/vSwarm,54,26
+/vhive-serverless/vSwarm/blob/main/benchmarks/bert/python/server.py,45,5
+/vhive-serverless/vSwarm/blob/main/docs/running_benchmarks.md,36,7
+/vhive-serverless/vSwarm/blob/main/benchmarks/bert/python/pytorch_SUT.py,29,4
+/vhive-serverless/vSwarm/blob/main/benchmarks/bert/python/squad_QSL.py,28,4
+/vhive-serverless/vSwarm/tree/main/benchmarks/rnn-serving,26,3
+/vhive-serverless/vSwarm/blob/main/benchmarks/bert/python/accuracy-squad.py,22,4
