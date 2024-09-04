@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm/tree/main/benchmarks/bert/python,69,3
+/vhive-serverless/vSwarm,45,21
+/vhive-serverless/vSwarm/tree/main/benchmarks,37,11
+/vhive-serverless/vSwarm/tree/main/benchmarks/bert,36,3
+/vhive-serverless/vSwarm/blob/main/benchmarks/bert/python/server.py,34,3
+/vhive-serverless/vSwarm/blob/main/docs/running_benchmarks.md,28,5
+/vhive-serverless/vSwarm/blob/main/benchmarks/bert/python/squad_QSL.py,22,3
+/vhive-serverless/vSwarm/blob/main/benchmarks/chained-function-serving/driver/driver.go,20,1
+/vhive-serverless/vSwarm/blob/main/benchmarks/bert/python/pytorch_SUT.py,18,2
+/vhive-serverless/vSwarm/blob/main/tools/invoker/client.go,18,1
