@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm/tree/main/benchmarks,38,12
+/vhive-serverless/vSwarm,36,23
+/vhive-serverless/vSwarm/blob/main/benchmarks/hotel-app/geo/server.go,32,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app,27,3
+/vhive-serverless/vSwarm/blob/main/benchmarks/video-analytics/proto/videoservice_pb2.py,22,1
+/vhive-serverless/vSwarm/tree/main/tools,15,3
+/vhive-serverless/vSwarm/blob/main/tools/relay/server.go,14,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/online-shop,14,1
+/vhive-serverless/vSwarm/blob/main/benchmarks/hotel-app/profile/server.go,13,1
+/vhive-serverless/vSwarm/blob/main/docs/methodology.md,10,3
