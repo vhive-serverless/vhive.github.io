@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm,48,23
+/vhive-serverless/vSwarm/tree/main/benchmarks,20,11
+/vhive-serverless/vSwarm/tree/main/benchmarks/aes,8,4
+/vhive-serverless/vSwarm/tree/main/benchmarks/chained-function-serving,7,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app,7,2
+/vhive-serverless/vSwarm/blob/main/benchmarks/chained-function-serving/driver/driver.go,6,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/chained-function-eventing,6,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/gg/benchmarks,6,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics,5,3
+/vhive-serverless/vSwarm/blob/main/benchmarks/aes/python/server.py,5,2
