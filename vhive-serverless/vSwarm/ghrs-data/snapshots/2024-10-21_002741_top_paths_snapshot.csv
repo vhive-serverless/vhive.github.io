@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm,47,25
+/vhive-serverless/vSwarm/tree/main/benchmarks,29,10
+/vhive-serverless/vSwarm/tree/main/tools,12,6
+/vhive-serverless/vSwarm/blob/main/benchmarks/chained-function-serving/producer/producer.go,12,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app,9,4
+/vhive-serverless/vSwarm/tree/main/tools/invoker,9,4
+/vhive-serverless/vSwarm/blob/main/docs/methodology.md,9,2
+/vhive-serverless/vSwarm/tree/main/tools/relay,5,2
+/vhive-serverless/vSwarm/blob/main/tools/invoker/client.go,4,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics,3,3
