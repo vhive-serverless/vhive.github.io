@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm/tree/main/benchmarks,40,13
+/vhive-serverless/vSwarm,34,19
+/vhive-serverless/vSwarm/tree/main/benchmarks/image-rotate,13,3
+/vhive-serverless/vSwarm/tree/main,12,4
+/vhive-serverless/vSwarm/tree/main/benchmarks/compression,11,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics,10,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/gptj,8,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/rnn-serving,8,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/compression/python,7,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/image-rotate/images,7,1
