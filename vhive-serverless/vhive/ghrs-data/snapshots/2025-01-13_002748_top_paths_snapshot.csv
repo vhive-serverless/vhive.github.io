@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vHive,49,30
+/vhive-serverless/vHive/blob/main/docs/quickstart_guide.md,15,6
+/vhive-serverless/vHive/blob/main/.github/workflows/firecracker_cri_tests.yml,15,2
+/vhive-serverless/vHive/blob/main/.github/workflows/gvisor_cri_tests.yml,15,2
+/vhive-serverless/vHive/blob/k8s_ha_mode/scripts/cluster/setup_master_node.go,15,1
+/vhive-serverless/vhive/blob/main/docs/quickstart_guide.md,9,1
+/vhive-serverless/vHive/tree/main,8,3
+/vhive-serverless/vHive/pull/1046,8,1
+/vhive-serverless/vHive/tree/main/docs,6,3
+/vhive-serverless/vHive/issues,5,5
