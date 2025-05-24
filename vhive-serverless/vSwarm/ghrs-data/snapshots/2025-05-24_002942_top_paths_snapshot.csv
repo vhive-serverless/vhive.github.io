@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm/tree/main/benchmarks,30,5
+/vhive-serverless/vSwarm,24,15
+/vhive-serverless/vSwarm/tree/main/benchmarks/bert,16,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app,8,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/rnn-serving,5,2
+/vhive-serverless/vSwarm/blob/main/docs/methodology.md,4,3
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app/search,4,2
+/vhive-serverless/vSwarm/blob/main/README.md,3,3
+/vhive-serverless/vSwarm/tree/main/benchmarks/map-reduce,3,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/fibonacci,3,1
