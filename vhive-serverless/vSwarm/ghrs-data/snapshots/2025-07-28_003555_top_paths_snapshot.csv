@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm,30,16
+/vhive-serverless/vSwarm/tree/main/benchmarks,24,8
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app,23,4
+/vhive-serverless/vSwarm/tree/169d03204182e4e2c521eeee5e6c292341b21a93/benchmarks,13,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app/reservation,10,2
+/vhive-serverless/vSwarm/blob/main/docs/running_benchmarks.md,8,2
+/vhive-serverless/vSwarm/tree/main,6,3
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app/rate,6,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app/search,5,2
+/vhive-serverless/vSwarm/blob/main/benchmarks/hotel-app/reservation/server.go,5,1
