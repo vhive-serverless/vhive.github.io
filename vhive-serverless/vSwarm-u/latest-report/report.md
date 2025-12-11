@@ -1,5 +1,5 @@
 % Statistics for vhive-serverless/vSwarm-u
-% Generated for [vhive-serverless/vSwarm-u](https://github.com/vhive-serverless/vSwarm-u) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-12-10 00:35 UTC.
+% Generated for [vhive-serverless/vSwarm-u](https://github.com/vhive-serverless/vSwarm-u) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-12-11 00:34 UTC.
 
 
 ## Views
@@ -75,7 +75,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `ustiugov.github.io`, 04: `sigarch.org`, 05: `cn.bing.com`, 06: `DuckDuckGo`, 07: `vhive-serverless.github.io`, 08: `Bing`, 09: `ease-lab.github.io`, 10: `dhschall.github.io`, 11: `telos-syslab.feishu.cn`, 12: `chatgpt.com`, 13: `yandex.ru`, 14: `m.facebook.com`, 15: `com.google.android.gm`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `ustiugov.github.io`, 04: `sigarch.org`, 05: `cn.bing.com`, 06: `DuckDuckGo`, 07: `vhive-serverless.github.io`, 08: `Bing`, 09: `ease-lab.github.io`, 10: `dhschall.github.io`, 11: `telos-syslab.feishu.cn`, 12: `yandex.ru`, 13: `chatgpt.com`, 14: `m.facebook.com`, 15: `ecosia.org`
 
 
 
@@ -86,7 +86,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `ustiugov.github.io`, 04: 
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `vhive-serverless/vSwarm-u`, 02: `ease-lab/vSwarm-u`, 03: `vhive-serverless/vSwarm-u/issues`, 04: `vhive-serverless/vSwarm-u/issues/72`, 05: `vhive-serverless/vSwarm-u/issues/68`, 06: `vhive-serverless/vSwarm-u/tree/main/simulation`, 07: `vhive-serverless/vswarm-u`, 08: `vhive-serverless/vSwarm-u/issues/81`, 09: `vhive-serverless/vSwarm-u/commits/main`, 10: `vhive-serverless/vSwarm-u/issues/53`, 11: `vhive-serverless/vSwarm-u/tree/main/setup`, 12: `vhive-serverless/vSwarm-u/blob/main/README.md`, 13: `vhive-serverless/vSwarm-u/tree/main/tools/client`, 14: `vhive-serverless/vSwarm-u/issues/82`, 15: `vhive-serverless/vSwarm-u/issues/80`
+Top 15 paths: 01: `vhive-serverless/vSwarm-u`, 02: `ease-lab/vSwarm-u`, 03: `vhive-serverless/vSwarm-u/issues`, 04: `vhive-serverless/vSwarm-u/issues/72`, 05: `vhive-serverless/vSwarm-u/issues/68`, 06: `vhive-serverless/vSwarm-u/tree/main/simulation`, 07: `vhive-serverless/vswarm-u`, 08: `vhive-serverless/vSwarm-u/issues/81`, 09: `vhive-serverless/vSwarm-u/issues/53`, 10: `vhive-serverless/vSwarm-u/tree/main/setup`, 11: `vhive-serverless/vSwarm-u/releases`, 12: `vhive-serverless/vSwarm-u/tree/main/tools/client`, 13: `vhive-serverless/vSwarm-u/commits/main`, 14: `vhive-serverless/vSwarm-u/issues/80`, 15: `vhive-serverless/vSwarm-u/issues/82`
 
 
 <script type="text/javascript">
