@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm,20,15
+/vhive-serverless/vSwarm/tree/main/benchmarks,11,6
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics,4,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/tuning-halving,2,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics-standalone,2,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics-standalone/videos,2,2
+/vhive-serverless/vSwarm/blob/main/benchmarks/compression/python/server.py,2,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/compression,2,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/compression/python,2,1
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics-standalone/python,2,1
