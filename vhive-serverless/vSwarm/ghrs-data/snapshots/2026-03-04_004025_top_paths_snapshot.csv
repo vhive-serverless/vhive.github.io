@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vSwarm,31,21
+/vhive-serverless/vSwarm/tree/main/benchmarks,22,10
+/vhive-serverless/vSwarm/tree/main/benchmarks/aes,6,5
+/vhive-serverless/vSwarm/pulls,6,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/video-analytics,5,3
+/vhive-serverless/vSwarm/tree/main/benchmarks/hotel-app,5,2
+/vhive-serverless/vSwarm/tree/main/benchmarks/online-shop,5,2
+/vhive-serverless/vSwarm/blob/main/docs/running_locally.md,4,3
+/vhive-serverless/vSwarm/pull/1164,3,2
+/vhive-serverless/vSwarm/blob/main/benchmarks/online-shop/yamls/docker-compose/dc-adservice.yaml,3,1
