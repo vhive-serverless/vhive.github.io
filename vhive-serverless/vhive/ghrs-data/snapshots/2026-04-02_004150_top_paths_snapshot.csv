@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/vhive-serverless/vHive,42,23
+/vhive-serverless/vHive/issues,14,6
+/vhive-serverless/vhive,13,12
+/vhive-serverless/vHive/releases,10,1
+/vhive-serverless/vHive/pulls,9,5
+/vhive-serverless/vHive/discussions,9,3
+/vhive-serverless/vHive/blob/main/docs/knative/update_kn.md,7,1
+/vhive-serverless/vHive/tree/main/configs,6,1
+/vhive-serverless/vHive/tree/main/scripts,6,1
+/vhive-serverless/vHive/blob/main/configs/setup/knative.json,4,1
